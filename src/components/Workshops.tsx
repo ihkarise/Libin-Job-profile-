@@ -40,7 +40,7 @@ export default function Workshops() {
 
             <div className="relative rounded-2xl overflow-hidden shadow-2xl h-64 md:h-80 w-full mt-4 border border-white/5 bg-ink/10">
               <img 
-                src="/speaking.png" 
+                src="./speaking.png" 
                 alt="Dr. Libin Job speaking at a seminar" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
