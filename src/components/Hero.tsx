@@ -59,7 +59,7 @@ export default function Hero() {
           
           <div className="relative h-full w-full bg-surface rounded-[40px] shadow-2xl overflow-hidden">
             <img 
-              src="/profile.png" 
+              src="./profile.png" 
               alt="Dr. Libin Job" 
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 bg-ink/10"
             />
